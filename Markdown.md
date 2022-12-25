@@ -23,7 +23,7 @@
 __Gras__
 ~~Barré~~
 $Important$
-$$Très_important$$
+$$Très important$$
 ```
 
 *Italique*
@@ -31,7 +31,7 @@ $$Très_important$$
 __Gras__
 ~~Barré~~
 $Important$
-$$Très_important$$
+$$Très important$$
 
 ## Images
 ```md
