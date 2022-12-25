@@ -33,23 +33,6 @@ __Gras__
 $Important$
 $$Très_important$$
 
-## Créer des sous-menus déroulants vers le bas 
-```html
-<details><summary>Mes outils.</summary>
-. Un marteau <br>
-. Un mètre <br>
-. Une scie <br>
-. Une pèle <br>
-</details>
-```
-
-<details><summary>Mes outils.</summary>
-. Un marteau <br>
-. Un mètre <br>
-. Une scie <br>
-. Une pèle <br>
-</details>
-
 ## Images
 ```md
 ![Image logo google](https://www.google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
