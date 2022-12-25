@@ -23,7 +23,7 @@
 __Gras__
 ~~Barré~~
 $Important$
-$$Très important$$
+$$Très   important$$
 ```
 
 *Italique*
