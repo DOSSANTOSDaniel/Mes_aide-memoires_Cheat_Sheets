@@ -1,4 +1,4 @@
-## Interface en ligne de commande
+## Interface en ligne de commande Linux
 
 |Raccourcis|Description|
 |---|---|
