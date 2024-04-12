@@ -13,3 +13,4 @@
 |<kbd>Alt</kbd>+<kbd>f4</kbd>|Ferme la fenêtre courante.|
 |<kbd>Win</kbd>+<kbd>Shift</kbd> + clique droit sur une application |Permet une élévation des droits.|
 |<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Echap</kbd>|Ouvre le gestionnaire des tâches.|
+|<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>s</kbd>|Capture d'ecran.|

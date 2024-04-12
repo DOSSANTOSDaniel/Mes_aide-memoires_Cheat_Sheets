@@ -28,6 +28,11 @@
 |<kbd>Alt</kbd>+<kbd>$</kbd>+<kbd>$</kbd>|Afficher les variables d'environnement.|
 |<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>|Parcourir les derniers arguments des précédentes commandes pour les replacer dans la commande en cours.|
 |<kbd>Echap</kbd>+<kbd>AltGr</kbd>+<kbd>#</kbd>|Commente la commande sur l'invite de commande et libère l'invite de commande.|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd>|Copie du texte séléctionné.|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>v</kbd>|Coller le texte copié.|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>n</kbd>|Ouvre un nouveau terminal.|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>t</kbd>|Ouvre un nouveau onglet.|
+|<kbd>Ctrl</kbd>+<kbd>Fleche bas</kbd>|Basculer entre les onglets.|
 
 ---
 
