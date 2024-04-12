@@ -267,7 +267,8 @@ Dans ce deuxième exemple, on va copier une ligne de texte à partir d'un édite
 1. On va ouvrir un fichier avec un éditeur de texte graphique, puis on copie une ligne.
 2. On ouvre un fichier avec Vim puis on utilise la commande <kbd>"</kbd> <kbd>+</kbd> <kbd>p</kbd>.
 
-Pour faire un copier coller entre l'environnement Vim et l'environnement du système il est parfois utile d'appliquer cette méthode car Vim n'est pas toujours configuré pour utiliser le copier coller avec la sourie.
+#### Une autre méthode
+Vim n'est pas toujours configuré pour utiliser le copier coller en utilisant la sourie, on peut utiliser <kbd>Ctrl</kbd>+<kbd>insert</kbd> pour coller.
 
 ## Imprimer des documents directement à partir de Vim
 
